@@ -1,0 +1,721 @@
+{
+  "sitedisruptions": [
+    {
+      "id": 1,
+      "retailSite": [
+        {
+          "id": 1,
+          "sitenumber": 66359,
+          "sitename": "BP_90211664-286 DRIVE CORP",
+          "siteaddress": "286 DRIVE CORP 286 EXPRESS DR S MEDFORD, New York"
+        },
+        {
+          "id": 2,
+          "sitenumber": 95408,
+          "sitename": "90033286-KWORK",
+          "siteaddress": "KWORK 253 W ROUTE 4 PARAMUS, New Jersey",
+          "terminal": "SFIL"
+        }
+      ],
+      "tank": "2-Diesel",
+      "disruptionType": "Not Polling",
+      "startDate": "12/11/2022, 12:00:00 PM",
+      "endDate": "12/12/2022, 12:00:00 PM",
+      "isUnknown": true,
+      "description": "test data",
+      "createdBy": "test user",
+      "createdTime": "12/12/2022, 7:08:26 PM",
+      "updatedBy": "",
+      "updatedTime": "",
+      "isDeleted": 0
+    },
+    {
+      "id": 2,
+      "retailSite": [
+        {
+          "id": 2,
+          "sitenumber": 95407,
+          "sitename": "90033286-KWORK",
+          "siteaddress": "KWORK 253 W ROUTE 4 PARAMUS, New Jersey"
+        }
+      ],
+      "tank": "3 - Premium",
+      "disruptionType": "Other",
+      "startDate": "12/1/2022, 12:00:00 PM",
+      "endDate": "12/15/2022, 2:00:00 AM",
+      "isUnknown": true,
+      "description": "test data by user",
+      "createdBy": "Veena",
+      "createdTime": "12/14/2022, 7:08:26 PM",
+      "isDeleted": 0
+    },
+    {
+      "id": 3,
+      "retailSite": [
+        {
+          "id": 1,
+          "sitenumber": 66359,
+          "sitename": "BP_90211664-286 DRIVE CORP",
+          "siteaddress": "286 DRIVE CORP 286 EXPRESS DR S MEDFORD, New York",
+          "terminal": "AFIL"
+        }
+      ],
+      "tank": "2 - Diesel",
+      "disruptionType": "Credit hold",
+      "startDate": "12/1/2022, 12:00:00 PM",
+      "endDate": "12/2/2022, 12:00:00 PM",
+      "isUnknown": false,
+      "description": "",
+      "createdBy": "",
+      "createdTime": "12/21/2022, 2:22:48 PM",
+      "isDeleted": 0
+    },
+    {
+      "id": 4,
+      "retailSite": [
+        {
+          "id": 2,
+          "sitenumber": 95407,
+          "sitename": "90033286-KWORK",
+          "siteaddress": "KWORK 253 W ROUTE 4 PARAMUS, New Jersey",
+          "terminal": "SFIL"
+        }
+      ],
+      "tank": "3 - Premium",
+      "disruptionType": "Tank maintainance or replacement",
+      "startDate": "12/21/2022, 1:00:00 PM",
+      "endDate": "12/23/2022, 12:00:00 PM",
+      "isUnknown": false,
+      "description": "",
+      "createdBy": "",
+      "createdTime": "12/21/2022, 2:39:33 PM",
+      "isDeleted": 0
+    },
+    {
+      "id": 6,
+      "retailSite": [
+        {
+          "id": 2,
+          "sitenumber": 95407,
+          "sitename": "90033286-KWORK",
+          "siteaddress": "KWORK 253 W ROUTE 4 PARAMUS, New Jersey",
+          "terminal": "SFIL"
+        }
+      ],
+      "tank": "3 - Premium",
+      "disruptionType": "Tank maintainance or replacement",
+      "startDate": "12/21/2022, 1:00:00 PM",
+      "endDate": "12/23/2022, 12:00:00 PM",
+      "isUnknown": true,
+      "description": "",
+      "createdBy": "",
+      "createdTime": "12/21/2022, 2:39:52 PM",
+      "isDeleted": 0
+    },
+    {
+      "id": 8,
+      "retailSite": [
+        {
+          "id": 1,
+          "sitenumber": 66359,
+          "sitename": "BP_90211664-286 DRIVE CORP",
+          "siteaddress": "286 DRIVE CORP 286 EXPRESS DR S MEDFORD, New York",
+          "terminal": "AFIL"
+        },
+        {
+          "id": 2,
+          "sitenumber": 95407,
+          "sitename": "90033286-KWORK",
+          "siteaddress": "KWORK 253 W ROUTE 4 PARAMUS, New Jersey",
+          "terminal": "SFIL"
+        }
+      ],
+      "tank": "3 - Premium",
+      "disruptionType": "Tank maintainance or replacement",
+      "startDate": "12/21/2022, 1:00:00 PM",
+      "endDate": "12/23/2022, 12:00:00 PM",
+      "isUnknown": true,
+      "description": "",
+      "createdBy": "",
+      "createdTime": "12/21/2022, 2:40:04 PM",
+      "isDeleted": 0
+    },
+    {
+      "id": 9,
+      "retailSite": [
+        {
+          "id": 1,
+          "sitenumber": 66359,
+          "sitename": "BP_90211664-286 DRIVE CORP",
+          "siteaddress": "286 DRIVE CORP 286 EXPRESS DR S MEDFORD, New York",
+          "terminal": "AFIL"
+        }
+      ],
+      "tank": "All tanks at this site",
+      "disruptionType": "Other",
+      "startDate": "12/1/2022, 12:00:00 PM",
+      "endDate": "12/6/2022, 12:00:00 PM",
+      "isUnknown": false,
+      "description": "",
+      "createdBy": "",
+      "createdTime": "12/21/2022, 2:40:49 PM",
+      "isDeleted": 0
+    },
+    {
+      "id": 10,
+      "retailSite": [
+        {
+          "id": 1,
+          "sitenumber": 66359,
+          "sitename": "BP_90211664-286 DRIVE CORP",
+          "siteaddress": "286 DRIVE CORP 286 EXPRESS DR S MEDFORD, New York",
+          "terminal": "AFIL"
+        },
+        {
+          "id": 2,
+          "sitenumber": 95407,
+          "sitename": "90033286-KWORK",
+          "siteaddress": "KWORK 253 W ROUTE 4 PARAMUS, New Jersey",
+          "terminal": "SFIL"
+        }
+      ],
+      "tank": "No specific tank",
+      "disruptionType": "Under construction",
+      "startDate": "12/31/2022, 12:00:00 PM",
+      "endDate": "12/31/2022, 12:00:00 PM",
+      "isUnknown": false,
+      "description": "",
+      "createdBy": "",
+      "createdTime": "12/21/2022, 2:41:25 PM",
+      "isDeleted": 0
+    },
+    {
+      "id": 11,
+      "retailSite": [
+        {
+          "id": 1,
+          "sitenumber": 66359,
+          "sitename": "BP_90211664-286 DRIVE CORP",
+          "siteaddress": "286 DRIVE CORP 286 EXPRESS DR S MEDFORD, New York",
+          "terminal": "AFIL"
+        }
+      ],
+      "tank": "2 - Diesel",
+      "disruptionType": "Testing",
+      "startDate": "12/31/2022, 12:00:00 PM",
+      "endDate": "12/31/2022, 12:00:00 PM",
+      "isUnknown": false,
+      "description": "",
+      "createdBy": "ALBERT",
+      "createdTime": "12/21/2022, 8:03:23 PM",
+      "isDeleted": 0
+    },
+    {
+      "id": 13,
+      "retailSite": [
+        {
+          "id": 1,
+          "sitenumber": 66359,
+          "sitename": "BP_90211664-286 DRIVE CORP",
+          "siteaddress": "286 DRIVE CORP 286 EXPRESS DR S MEDFORD, New York",
+          "terminal": "AFIL"
+        }
+      ],
+      "tank": "All tanks at this site",
+      "disruptionType": "Other",
+      "startDate": "12/22/2022, 12:00:00 PM",
+      "endDate": "12/24/2022, 12:00:00 PM",
+      "isUnknown": false,
+      "description": "",
+      "createdBy": "ALBERT",
+      "createdTime": "12/22/2022, 2:09:51 PM",
+      "isDeleted": 0
+    },
+    {
+      "id": 14,
+      "retailSite": [
+        {
+          "id": 1,
+          "sitenumber": 66359,
+          "sitename": "BP_90211664-286 DRIVE CORP",
+          "siteaddress": "286 DRIVE CORP 286 EXPRESS DR S MEDFORD, New York",
+          "terminal": "AFIL"
+        }
+      ],
+      "tank": "All tanks at this site",
+      "disruptionType": "Not polling",
+      "startDate": "12/1/2022, 12:00:00 PM",
+      "endDate": "12/3/2022, 12:00:00 PM",
+      "isUnknown": false,
+      "description": "",
+      "createdBy": "K.P., ALBERT (ERNST AND YOUNG)",
+      "createdTime": "12/22/2022, 3:09:54 PM",
+      "isDeleted": 0
+    },
+    {
+      "id": 15,
+      "retailSite": [
+        {
+          "id": 2,
+          "sitenumber": 95407,
+          "sitename": "90033286-KWORK",
+          "siteaddress": "KWORK 253 W ROUTE 4 PARAMUS, New Jersey",
+          "terminal": "SFIL"
+        }
+      ],
+      "tank": "3 - Premium",
+      "disruptionType": "Not polling",
+      "startDate": "12/1/2022, 12:00:00 PM",
+      "endDate": "12/23/2022, 12:00:00 PM",
+      "isUnknown": false,
+      "description": "",
+      "createdBy": "K.P., ALBERT (ERNST AND YOUNG)",
+      "createdTime": "12/22/2022, 3:11:35 PM",
+      "isDeleted": 0
+    },
+    {
+      "id": 16,
+      "retailSite": [
+        {
+          "id": 1,
+          "sitenumber": 66359,
+          "sitename": "BP_90211664-286 DRIVE CORP",
+          "siteaddress": "286 DRIVE CORP 286 EXPRESS DR S MEDFORD, New York",
+          "terminal": "AFIL"
+        },
+        {
+          "id": 2,
+          "sitenumber": 95407,
+          "sitename": "90033286-KWORK",
+          "siteaddress": "KWORK 253 W ROUTE 4 PARAMUS, New Jersey",
+          "terminal": "SFIL"
+        }
+      ],
+      "tank": "All tanks at this site",
+      "disruptionType": "Not polling",
+      "startDate": "1/1/2023, 12:00:00 PM",
+      "endDate": "1/31/2023, 12:00:00 PM",
+      "isUnknown": false,
+      "description": "",
+      "createdBy": "K.P., ALBERT (ERNST AND YOUNG)",
+      "createdTime": "1/4/2023, 3:08:56 PM",
+      "isDeleted": 0
+    },
+    {
+      "id": 17,
+      "retailSite": [
+        {
+          "id": 1,
+          "sitenumber": 66359,
+          "sitename": "BP_90211664-286 DRIVE CORP",
+          "siteaddress": "286 DRIVE CORP 286 EXPRESS DR S MEDFORD, New York",
+          "terminal": "AFIL"
+        },
+        {
+          "id": 2,
+          "sitenumber": 95407,
+          "sitename": "90033286-KWORK",
+          "siteaddress": "KWORK 253 W ROUTE 4 PARAMUS, New Jersey",
+          "terminal": "SFIL"
+        }
+      ],
+      "tank": "All tanks at this site",
+      "disruptionType": "Not polling",
+      "startDate": "1/1/2023, 12:00:00 PM",
+      "endDate": "1/31/2023, 12:00:00 PM",
+      "isUnknown": false,
+      "description": "",
+      "createdBy": "K.P., ALBERT (ERNST AND YOUNG)",
+      "createdTime": "1/4/2023, 3:09:07 PM",
+      "isDeleted": 0
+    },
+    {
+      "id": 18,
+      "retailSite": [
+        {
+          "id": 1,
+          "sitenumber": 66359,
+          "sitename": "BP_90211664-286 DRIVE CORP",
+          "siteaddress": "286 DRIVE CORP 286 EXPRESS DR S MEDFORD, New York",
+          "terminal": "AFIL"
+        }
+      ],
+      "tank": "1 - Regular",
+      "disruptionType": "Terminal supply issues",
+      "startDate": "1/4/2023, 12:00:00 PM",
+      "endDate": "1/6/2023, 12:00:00 PM",
+      "isUnknown": false,
+      "description": "",
+      "createdBy": "K.P., ALBERT (ERNST AND YOUNG)",
+      "createdTime": "1/4/2023, 3:11:13 PM",
+      "isDeleted": 0
+    },
+    {
+      "id": 19,
+      "retailSite": [
+        {
+          "id": 1,
+          "sitenumber": 66359,
+          "sitename": "BP_90211664-286 DRIVE CORP",
+          "siteaddress": "286 DRIVE CORP 286 EXPRESS DR S MEDFORD, New York",
+          "terminal": "AFIL"
+        }
+      ],
+      "tank": "3 - Premium",
+      "disruptionType": "Tank maintainance or replacement",
+      "startDate": "1/1/2023, 12:00:00 PM",
+      "endDate": "1/26/2023, 12:00:00 PM",
+      "isUnknown": false,
+      "description": "",
+      "createdBy": "K.P., ALBERT (ERNST AND YOUNG)",
+      "createdTime": "1/4/2023, 3:11:37 PM",
+      "isDeleted": 0
+    },
+    {
+      "id": 20,
+      "retailSite": [
+        {
+          "id": 1,
+          "sitenumber": 66359,
+          "sitename": "BP_90211664-286 DRIVE CORP",
+          "siteaddress": "286 DRIVE CORP 286 EXPRESS DR S MEDFORD, New York",
+          "terminal": "AFIL"
+        },
+        {
+          "id": 2,
+          "sitenumber": 95407,
+          "sitename": "90033286-KWORK",
+          "siteaddress": "KWORK 253 W ROUTE 4 PARAMUS, New Jersey",
+          "terminal": "SFIL"
+        }
+      ],
+      "tank": "All tanks at this site",
+      "disruptionType": "Not polling",
+      "startDate": "1/1/2023, 12:00:00 PM",
+      "endDate": "1/10/2023, 12:00:00 PM",
+      "isUnknown": false,
+      "description": "",
+      "createdBy": "K.P., ALBERT (ERNST AND YOUNG)",
+      "createdTime": "1/4/2023, 3:12:23 PM",
+      "isDeleted": 0
+    },
+    {
+      "id": 21,
+      "retailSite": [
+        {
+          "id": 1,
+          "sitenumber": 66359,
+          "sitename": "BP_90211664-286 DRIVE CORP",
+          "siteaddress": "286 DRIVE CORP 286 EXPRESS DR S MEDFORD, New York",
+          "terminal": "AFIL"
+        }
+      ],
+      "tank": "1 - Regular",
+      "disruptionType": "Terminal supply issues",
+      "startDate": "1/1/2023, 12:00:00 PM",
+      "endDate": "1/6/2023, 12:00:00 PM",
+      "isUnknown": false,
+      "description": "",
+      "createdBy": "K.P., ALBERT (ERNST AND YOUNG)",
+      "createdTime": "1/4/2023, 3:12:39 PM",
+      "isDeleted": 0
+    },
+    {
+      "id": 22,
+      "retailSite": [
+        {
+          "id": 1,
+          "sitenumber": 66359,
+          "sitename": "BP_90211664-286 DRIVE CORP",
+          "siteaddress": "286 DRIVE CORP 286 EXPRESS DR S MEDFORD, New York",
+          "terminal": "AFIL"
+        },
+        {
+          "id": 2,
+          "sitenumber": 95407,
+          "sitename": "90033286-KWORK",
+          "siteaddress": "KWORK 253 W ROUTE 4 PARAMUS, New Jersey",
+          "terminal": "SFIL"
+        }
+      ],
+      "tank": "3 - Premium",
+      "disruptionType": "Tank maintainance or replacement",
+      "startDate": "1/1/2023, 12:00:00 PM",
+      "endDate": "1/31/2023, 12:00:00 PM",
+      "isUnknown": false,
+      "description": "",
+      "createdBy": "K.P., ALBERT (ERNST AND YOUNG)",
+      "createdTime": "1/4/2023, 3:14:27 PM",
+      "isDeleted": 0
+    },
+    {
+      "id": 23,
+      "retailSite": [
+        {
+          "id": 1,
+          "sitenumber": 66359,
+          "sitename": "BP_90211664-286 DRIVE CORP",
+          "siteaddress": "286 DRIVE CORP 286 EXPRESS DR S MEDFORD, New York",
+          "terminal": "AFIL"
+        },
+        {
+          "id": 2,
+          "sitenumber": 95407,
+          "sitename": "90033286-KWORK",
+          "siteaddress": "KWORK 253 W ROUTE 4 PARAMUS, New Jersey",
+          "terminal": "SFIL"
+        }
+      ],
+      "tank": "All tanks at this site",
+      "disruptionType": "Not polling",
+      "startDate": "1/3/2023, 12:00:00 PM",
+      "endDate": "1/13/2023, 12:00:00 PM",
+      "isUnknown": false,
+      "description": "",
+      "createdBy": "K.P., ALBERT (ERNST AND YOUNG)",
+      "createdTime": "1/5/2023, 7:39:32 PM",
+      "isDeleted": 0
+    },
+    {
+      "id": 24,
+      "retailSite": [
+        {
+          "id": 1,
+          "sitenumber": 66359,
+          "sitename": "BP_90211664-286 DRIVE CORP",
+          "siteaddress": "286 DRIVE CORP 286 EXPRESS DR S MEDFORD, New York",
+          "terminal": "AFIL"
+        },
+        {
+          "id": 2,
+          "sitenumber": 95407,
+          "sitename": "90033286-KWORK",
+          "siteaddress": "KWORK 253 W ROUTE 4 PARAMUS, New Jersey",
+          "terminal": "SFIL"
+        }
+      ],
+      "tank": "All tanks at this site",
+      "disruptionType": "Not polling",
+      "startDate": "1/3/2023, 12:00:00 PM",
+      "endDate": "1/13/2023, 12:00:00 PM",
+      "isUnknown": false,
+      "description": "",
+      "createdBy": "K.P., ALBERT (ERNST AND YOUNG)",
+      "createdTime": "1/5/2023, 7:39:33 PM",
+      "isDeleted": 0
+    },
+    {
+      "id": 25,
+      "retailSite": [
+        {
+          "id": 2,
+          "sitenumber": 95407,
+          "sitename": "90033286-KWORK",
+          "siteaddress": "KWORK 253 W ROUTE 4 PARAMUS, New Jersey",
+          "terminal": "SFIL"
+        }
+      ],
+      "tank": "All tanks at this site",
+      "disruptionType": "Testing",
+      "startDate": "1/6/2023, 12:00:00 PM",
+      "endDate": "1/8/2023, 12:00:00 PM",
+      "isUnknown": false,
+      "description": "",
+      "createdBy": "K.P., ALBERT (ERNST AND YOUNG)",
+      "createdTime": "1/5/2023, 7:39:51 PM",
+      "isDeleted": 0
+    },
+    {
+      "id": 26,
+      "retailSite": [
+        {
+          "id": 1,
+          "sitenumber": 66359,
+          "sitename": "BP_90211664-286 DRIVE CORP",
+          "siteaddress": "286 DRIVE CORP 286 EXPRESS DR S MEDFORD, New York",
+          "terminal": "AFIL"
+        }
+      ],
+      "tank": "All tanks at this site",
+      "disruptionType": "Not polling",
+      "startDate": "1/4/2023, 12:00:00 PM",
+      "endDate": "1/7/2023, 12:00:00 PM",
+      "isUnknown": false,
+      "description": "",
+      "createdBy": "K.P., ALBERT (ERNST AND YOUNG)",
+      "createdTime": "1/5/2023, 7:40:12 PM",
+      "isDeleted": 0
+    },
+    {
+      "id": 28,
+      "retailSite": [
+        {
+          "id": 2,
+          "sitenumber": 95407,
+          "sitename": "90033286-KWORK",
+          "siteaddress": "KWORK 253 W ROUTE 4 PARAMUS, New Jersey",
+          "terminal": "SFIL"
+        }
+      ],
+      "tank": "2 - Diesel",
+      "disruptionType": "Other",
+      "startDate": "1/1/2023, 12:00:00 PM",
+      "endDate": "1/6/2023, 12:00:00 PM",
+      "isUnknown": false,
+      "description": "",
+      "createdBy": "K.P., ALBERT (ERNST AND YOUNG)",
+      "createdTime": "1/5/2023, 8:03:45 PM",
+      "isDeleted": 0
+    }
+  ],
+  "terminals": [
+    {
+      "id": 1,
+      "name": "AFIL"
+    },
+    {
+      "id": 2,
+      "name": "AVTK"
+    },
+    {
+      "id": 3,
+      "name": "ISTC"
+    },
+    {
+      "id": 4,
+      "name": "PSTR"
+    }
+  ],
+  "retailsites": [
+    {
+      "id": 1,
+      "sitenumber": 66359,
+      "sitename": "BP_90211664-286 DRIVE CORP",
+      "siteaddress": "286 DRIVE CORP 286 EXPRESS DR S MEDFORD, New York",
+      "terminal": "AFIL"
+    },
+    {
+      "id": 2,
+      "sitenumber": 95407,
+      "sitename": "90033286-KWORK",
+      "siteaddress": "KWORK 253 W ROUTE 4 PARAMUS, New Jersey",
+      "terminal": "SFIL"
+    }
+  ],
+  "tank": [
+    {
+      "id": 1,
+      "value": "1 - Regular"
+    },
+    {
+      "id": 2,
+      "value": "2 - Diesel"
+    },
+    {
+      "id": 3,
+      "value": "3 - Premium"
+    },
+    {
+      "id": 4,
+      "value": "All tanks at this site"
+    },
+    {
+      "id": 5,
+      "value": "No specific tank"
+    }
+  ],
+  "disruptionTypes": [
+    {
+      "id": 11,
+      "value": "Credit hold"
+    },
+    {
+      "id": 12,
+      "value": "Not polling"
+    },
+    {
+      "id": 13,
+      "value": "Other"
+    },
+    {
+      "id": 14,
+      "value": "Tank maintainance or replacement"
+    },
+    {
+      "id": 15,
+      "value": "Testing"
+    },
+    {
+      "id": 16,
+      "value": "Under construction"
+    },
+    {
+      "id": 17,
+      "value": "Terminal supply issues"
+    }
+  ],
+  "headers": [
+    {
+      "header": "Start date and time",
+      "accessorKey": "StartDate",
+      "enableSorting": true,
+      "filterFn": "myCustomFilter"
+    },
+    {
+      "header": "End date and time",
+      "accessorKey": "EndDate",
+      "enableSorting": true,
+      "filterFn": "myCustomFilter"
+    },
+    {
+      "header": "Site#",
+      "accessorKey": "Site",
+      "enableSorting": true,
+      "size": 65,
+      "filterFn": "includesString"
+    },
+    {
+      "header": "Site name and address",
+      "accessorKey": "SiteNameandAddress",
+      "enableSorting": true,
+      "filterFn": "myCustomFilter"
+    },
+    {
+      "header": "Tank",
+      "accessorKey": "Tank",
+      "enableSorting": true,
+      "size": 140,
+      "filterFn": "myCustomFilter"
+    },
+    {
+      "header": "Disruption type",
+      "accessorKey": "DisruptionType",
+      "enableSorting": true,
+      "filterFn": "myCustomFilter"
+    },
+    {
+      "header": "Description",
+      "accessorKey": "Description",
+      "enableSorting": true,
+      "filterFn": "myCustomFilter"
+    },
+    {
+      "header": "Entered By",
+      "accessorKey": "EnteredBy",
+      "enableSorting": true,
+      "filterFn": "myCustomFilter"
+    },
+    {
+      "header": "Created",
+      "accessorKey": "Created",
+      "enableSorting": true,
+      "filterFn": "myCustomFilter"
+    },
+    {
+      "header": "Updated",
+      "accessorKey": "Updated",
+      "enableSorting": true,
+      "filterFn": "myCustomFilter"
+    }
+  ]
+}
