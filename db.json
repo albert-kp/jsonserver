@@ -8,13 +8,6 @@
           "sitenumber": 66359,
           "sitename": "BP_90211664-286 DRIVE CORP",
           "siteaddress": "286 DRIVE CORP 286 EXPRESS DR S MEDFORD, New York"
-        },
-        {
-          "id": 2,
-          "sitenumber": 95408,
-          "sitename": "90033286-KWORK",
-          "siteaddress": "KWORK 253 W ROUTE 4 PARAMUS, New Jersey",
-          "terminal": "SFIL"
         }
       ],
       "tank": "2-Diesel",
@@ -28,26 +21,6 @@
       "updatedBy": "",
       "updatedTime": "",
       "isDeleted": 0
-    },
-    {
-      "id": 2,
-      "retailSite": [
-        {
-          "id": 2,
-          "sitenumber": 95407,
-          "sitename": "90033286-KWORK",
-          "siteaddress": "KWORK 253 W ROUTE 4 PARAMUS, New Jersey"
-        }
-      ],
-      "tank": "3 - Premium",
-      "disruptionType": "Other",
-      "startDate": "12/1/2022, 12:00:00 PM",
-      "endDate": "12/15/2022, 2:00:00 AM",
-      "isUnknown": true,
-      "description": "test data by user",
-      "createdBy": "Veena",
-      "createdTime": "12/14/2022, 7:08:26 PM",
-      "isDeleted": 0
     }
   ],
   "terminals": [
@@ -58,14 +31,6 @@
     {
       "id": 2,
       "name": "AVTK"
-    },
-    {
-      "id": 3,
-      "name": "ISTC"
-    },
-    {
-      "id": 4,
-      "name": "PSTR"
     }
   ],
   "retailsites": [
@@ -75,13 +40,6 @@
       "sitename": "BP_90211664-286 DRIVE CORP",
       "siteaddress": "286 DRIVE CORP 286 EXPRESS DR S MEDFORD, New York",
       "terminal": "AFIL"
-    },
-    {
-      "id": 2,
-      "sitenumber": 95407,
-      "sitename": "90033286-KWORK",
-      "siteaddress": "KWORK 253 W ROUTE 4 PARAMUS, New Jersey",
-      "terminal": "SFIL"
     }
   ],
   "tank": [
