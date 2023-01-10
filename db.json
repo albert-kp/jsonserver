@@ -5,9 +5,10 @@
       "retailSite": [
         {
           "id": 1,
-          "sitenumber": 66359,
-          "sitename": "BP_90211664-286 DRIVE CORP",
-          "siteaddress": "286 DRIVE CORP 286 EXPRESS DR S MEDFORD, New York"
+          "sitenumber": 123456,
+          "sitename": "ABC_123456-123 CORP",
+          "siteaddress": "123 CORP 123 EXPRESS DR S MEDFORD, New York",
+          "terminal": "TERMINAL 1"
         }
       ],
       "tank": "2-Diesel",
@@ -15,31 +16,31 @@
       "startDate": "12/11/2022, 12:00:00 PM",
       "endDate": "12/12/2022, 12:00:00 PM",
       "isUnknown": true,
-      "description": "test data",
-      "createdBy": "test user",
+      "description": "Test User",
+      "createdBy": "Test User",
       "createdTime": "12/12/2022, 7:08:26 PM",
-      "updatedBy": "",
-      "updatedTime": "",
+      "updatedBy": "Test User",
+      "updatedTime": "14/12/2022, 7:08:26 PM",
       "isDeleted": 0
     }
   ],
   "terminals": [
     {
       "id": 1,
-      "name": "AFIL"
+      "name": "TERMINAL 1"
     },
     {
       "id": 2,
-      "name": "AVTK"
+      "name": "TERMINAL 2"
     }
   ],
   "retailsites": [
     {
       "id": 1,
-      "sitenumber": 66359,
-      "sitename": "BP_90211664-286 DRIVE CORP",
-      "siteaddress": "286 DRIVE CORP 286 EXPRESS DR S MEDFORD, New York",
-      "terminal": "AFIL"
+      "sitenumber": 123456,
+      "sitename": "ABC_123456-123 CORP",
+      "siteaddress": "123 CORP 123 EXPRESS DR S MEDFORD, New York",
+      "terminal": "TERMINAL 1"
     }
   ]
   
