@@ -43,5 +43,58 @@
       "terminal": "TERMINAL 1"
     }
   ]
+  ,
+  "tank": [
+    {
+      "id": 1,
+      "value": "1 - Regular"
+    },
+    {
+      "id": 2,
+      "value": "2 - Diesel"
+    },
+    {
+      "id": 3,
+      "value": "3 - Premium"
+    },
+    {
+      "id": 4,
+      "value": "All tanks at this site"
+    },
+    {
+      "id": 5,
+      "value": "No specific tank"
+    }
+  ],
+  "disruptionTypes": [
+    {
+      "id": 11,
+      "value": "Credit hold"
+    },
+    {
+      "id": 12,
+      "value": "Not polling"
+    },
+    {
+      "id": 13,
+      "value": "Other"
+    },
+    {
+      "id": 14,
+      "value": "Tank maintainance or replacement"
+    },
+    {
+      "id": 15,
+      "value": "Testing"
+    },
+    {
+      "id": 16,
+      "value": "Under construction"
+    },
+    {
+      "id": 17,
+      "value": "Terminal supply issues"
+    }
+  ]
   
 }
